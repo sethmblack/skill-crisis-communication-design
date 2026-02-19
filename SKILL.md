@@ -4,7 +4,7 @@ description: Design compassionate, human crisis communications - especially layo
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3718
+  version: 1.0.3719
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - crisis-communication-design
